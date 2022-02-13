@@ -1,2 +1,3 @@
 Just a test file
 Further test with this file
+Final test
